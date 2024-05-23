@@ -1,0 +1,100 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    margin-top: 44px;
+}
+
+
+
+.link-1 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-right: 23px;
+    cursor: pointer;
+    color: rgb(88,107,142);
+}
+
+.button-1 {
+    width: 130px;
+    height: 41px;
+    border-radius: 50px;
+    background-color: rgb(182,200,212);
+    border-bottom: #000000;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.inj-log {
+    width: 395px;
+    height: 172px;
+    margin-top: 1px;
+    margin-left: 40%;  
+      
+}
+
+main {
+    display: inline-block;
+}
+
+.img-manutenção {
+    width: 640px;
+    height: 420px;
+    margin-left: 250px;
+    margin-top: 51px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    width: 513px;
+    height: 122px;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 121px;
+    color: rgb(8, 30, 71);
+}
+
+h2 {
+    width: 448px;
+    height: 71px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 55px;
+    color: rgb(8, 30, 71);
+}
+
+p {
+    width: 515px;
+    height: 87px;
+    margin-bottom: 160px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+}
+
+.button-2 {
+    background: rgb(182,200,212);    
+    width: 239px;
+    height: 64px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
